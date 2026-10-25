@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment secrets
+.env
+*/.env
+
+# Build outputs & temp files
+dist/
+build/
+.vite/
+.DS_Store
+*.log
